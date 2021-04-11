@@ -15,4 +15,5 @@ Done until now:
 
 -   Python Core:
 
-    -   Functions and Modules -> WiP: (~/PythonCore/Celsius_to_Fahrenheit.py)
+    -   Functions and Modules (~/PythonCore/Celsius_to_Fahrenheit.py)
+    -   Exceptions and Files -> WiP: (~/PythonCore/Book_Titles.py)
