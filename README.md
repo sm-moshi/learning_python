@@ -8,4 +8,5 @@ Done until now:
 -   Strings
 -   Variables
 -   Control Flow
--   Lists (WiP)
+-   Lists
+-   Functions (WiP)
