@@ -9,4 +9,4 @@ Done until now:
 -   Variables
 -   Control Flow
 -   Lists
--   Functions (WiP)
+-   Functions
