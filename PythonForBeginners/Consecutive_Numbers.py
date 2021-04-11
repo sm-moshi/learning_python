@@ -11,6 +11,6 @@
 
 N = int(input())
 
-sum_of_list = sum(range(0,N+1))
+sum_of_list = sum(range(0, N + 1))
 
 print(sum_of_list)

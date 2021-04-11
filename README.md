@@ -4,13 +4,15 @@ Small steps at re-learning python (haven't done this since childhood).
 
 Done until now:
 
-- Python for Beginners:
-  - Basic Concepts
-  - Strings
-  - Variables
-  - Control Flow
-  - Lists
-  - Functions
+-   Python for Beginners:
 
-- Python Core:
-  - Functions and Modules (WiP)
+    -   Basic Concepts (~/PythonForBeginners/Flight_Time.py)
+    -   Strings (~/PythonForBeginners/Leaderboard.py)
+    -   Variables (~/PythonForBeginners/Tip_Calculator.py)
+    -   Control Flow (~/PythonForBeginners/BMI_Calculator.py)
+    -   Lists (~/PythonForBeginners/Consecutive_Numbers.py)
+    -   Functions (~/PythonForBeginners/Search_Engine.py)
+
+-   Python Core:
+
+    -   Functions and Modules -> WiP: (~/PythonCore/Celsius_to_Fahrenheit.py)

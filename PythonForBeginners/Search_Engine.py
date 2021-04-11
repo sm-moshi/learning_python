@@ -15,10 +15,12 @@ text = input()
 print("Enter the word you want to search for:")
 word = input()
 
+
 def search():
-	if text.find(word) == -1:
-		print("Word not found")
-	else:
-		print("Word found")
+    if text.find(word) == -1:
+        print("Word not found")
+    else:
+        print("Word found")
+
 
 search()
