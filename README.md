@@ -7,4 +7,5 @@ Done until now:
 -   Basic Concepts
 -   Strings
 -   Variables
--   Control Flow (WiP)
+-   Control Flow
+-   Lists (WiP)
