@@ -9,8 +9,11 @@
 # 5050
 # Explanation: The sum of all numbers from 1 to 100 is equal to 5050.
 
+print("Please enter a number.")
+print("This program will output the sum of all numbers from 1 to your number.")
 N = int(input())
 
 sum_of_list = sum(range(0, N + 1))
 
+print("Your sum is:")
 print(sum_of_list)
