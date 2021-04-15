@@ -20,16 +20,17 @@ def guessnum():
    else:
       print("You chose", number, "while your CPU chose", value,":(")
       print("Well... You lost!")
-      
+
 guessnum()
 
 # Rest does not work yet...
-
-# print("Want to play again?")
-# repeat = string(input())
-# if repeat = "yes":
-#     guessnum()
-# elif repeat = "Yes":
-#     guessnum()
-# else
-#     sys.exit("Bye!"
+"""
+print("Want to play again? (y/n)")
+again = input()
+def play_again():
+   if again == 'y':
+      guessnum()
+   else:
+      sys.exit("Bye!")
+play_again()
+"""
