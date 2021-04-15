@@ -1,21 +1,35 @@
 #!/usr/bin/python
 
 import random
+import sys
 
-print("Please choose a number between 1 and 1000000:")
+print("Please choose a random number between 1 and 10 (with one decimal max):")
 
-for x in range(1):
-   value = random.randint(1,1000000)
+def guessnum():
+   for number in range(1):
+      value = round(random.uniform(1,10), 1)
 
-number = int(input())
+   number = float(input())
 
-if number > 1000000:
-   print("Please choose a number below 1000000!")
-elif number == value:
-   print("You chose:", number )
-   print("Your CPU chose:", value )
-   print("You won!")
-else:
-   print("You chose:", number )
-   print("Your CPU chose:", value )
-   print("You lost!")
+   if number > 10.0:
+      print("Please choose a number below 10.0!")
+      guessnum()
+   elif number == value:
+      print("You chose", number, "while your CPU chose", value,":)")
+      print("Well... You won!")
+   else:
+      print("You chose", number, "while your CPU chose", value,":(")
+      print("Well... You lost!")
+      
+guessnum()
+
+# Rest does not work yet...
+
+# print("Want to play again?")
+# repeat = string(input())
+# if repeat = "yes":
+#     guessnum()
+# elif repeat = "Yes":
+#     guessnum()
+# else
+#     sys.exit("Bye!"
