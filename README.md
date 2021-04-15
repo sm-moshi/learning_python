@@ -4,7 +4,7 @@ Small steps at re-learning python (haven't done this since childhood).
 
 Done until now:
 
--   Python for Beginners:
+-   Python for Beginners (100%):
 
     -   Basic Concepts    (~/PythonForBeginners/Flight_Time.py)
     -   Strings           (~/PythonForBeginners/Leaderboard.py)
@@ -17,4 +17,5 @@ Done until now:
 
     -   Functions and Modules   (~/PythonCore/Celsius_to_Fahrenheit.py)
     -   Exceptions and Files    (~/PythonCore/Book_Titles.py)
-    -   More Types              WiP: (~/PythonCore/Longest_Word.py)
+    -   More Types              (~/PythonCore/Longest_Word.py)
+    -   Functional Programming  WiP: (~/PythonCore/Fibonacci.py)
