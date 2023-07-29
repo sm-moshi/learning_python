@@ -13,9 +13,12 @@ Done until now:
     -   Lists             (~/PythonForBeginners/Consecutive_Numbers.py)
     -   Functions         (~/PythonForBeginners/Search_Engine.py)
 
--   Python Core:
+-   Python Core (got abbandoned by the Devs of SoloLearn):
 
     -   Functions and Modules   (~/PythonCore/Celsius_to_Fahrenheit.py)
     -   Exceptions and Files    (~/PythonCore/Book_Titles.py)
     -   More Types              (~/PythonCore/Longest_Word.py)
     -   Functional Programming  WiP: (~/PythonCore/Fibonacci.py)
+
+- Python Intermediate (0%):
+    - Test
